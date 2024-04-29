@@ -1137,7 +1137,6 @@ class Application(_tk.Tk):
         self.wm_withdraw()
         _TkExMethods.SetWindowPos(window=self, relwidth=0.75, relheight=0.85, rely=0.3)
         self._style = _ttk.Style(self)
-        self._style.theme_use("clam")
         self.wm_title(title)
         # self.wm_attributes("-alpha", 0.78)
         self.configure(borderwidth=5)
