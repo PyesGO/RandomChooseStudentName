@@ -8,7 +8,7 @@ executables = [
     Executable(
         script="test.py",
         target_name="TEST",
-        copyright="YJT Software",
+        copyright="CopyLeft",
         base="Win32GUI",
     )
 ]
