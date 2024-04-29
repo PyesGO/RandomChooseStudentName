@@ -19,4 +19,6 @@
 
 </p>
 <p>解析：小红（姓名），f（性别），j（外语类型）
+</p>
+<p>之后启动程序点击“导入”按钮即可导入
 </body><div id="transmart-crx-shadow-root" style="all: initial;"></div></html>
