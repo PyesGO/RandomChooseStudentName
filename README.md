@@ -19,5 +19,4 @@
 
 </p>
 <p>解析：小红（姓名），f（性别），j（外语类型）
-Edit By <a href="http://mahua.jser.me">MaHua</a></p>
 </body><div id="transmart-crx-shadow-root" style="all: initial;"></div></html>
